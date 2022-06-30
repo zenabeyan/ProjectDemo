@@ -9,10 +9,3 @@ const connectDB =()=>{
         })
 }
 module.exports = connectDB
-
-
-// const taskSchema = new mongoose.Schema({
-//     name: String
-// })
-
-// const Task = mongoose.model('Task', taskSchema)
